@@ -1,0 +1,10 @@
+[id^="movieItem"],
+[id*="movieItem"] {
+
+	margin: 20px;
+}
+
+#movies-list {
+	display: flex;
+    flex-wrap: wrap;
+}
